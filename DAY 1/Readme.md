@@ -350,14 +350,4 @@ LIMIT
 
 ---
 
-# 📂 Files
-
-```
-📁 Day-01-SELECT
- ├── README.md
- └── day01_select.sql
-```
-
----
-
 ⭐ **Next Topic:** SQL Operators & Filtering Conditions
